@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+developer+major+in+Machine+Learning.++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">Hi there 👋, I'm Junyi!</h2>
 
